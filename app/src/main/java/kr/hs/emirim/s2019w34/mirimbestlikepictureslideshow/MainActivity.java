@@ -39,7 +39,7 @@ public class MainActivity extends AppCompatActivity {
             });
         }
 
-        Button btnDone = findViewById(R.id.btn_done);
+        Button btnDone = findViewById(R.id.btn_finish);
         btnDone.setOnClickListener(btnListener);
     }
 
